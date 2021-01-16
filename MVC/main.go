@@ -1,7 +1,7 @@
 package main
 
 import (
-	"IntroRestMS/MVC/app"
+	"github.com/IntroRestAPI/MVC/app"
 )
 
 func main() {
